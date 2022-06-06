@@ -1,0 +1,3 @@
+create database abm_areas;
+use abm_areas;
+create table Areas (idAreas int primary key not null auto_increment, descripcion varchar(100));
